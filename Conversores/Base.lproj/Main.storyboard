@@ -97,7 +97,7 @@
                         <outlet property="btUnit2" destination="Uba-ra-Sii" id="BVJ-WM-bYO"/>
                         <outlet property="labelResult" destination="ORe-gm-yqP" id="qlM-3u-d2A"/>
                         <outlet property="labelResultUnit" destination="wkn-l2-zQV" id="MQT-kS-OEY"/>
-                        <outlet property="labelUnit" destination="wkn-l2-zQV" id="dHx-CH-YA3"/>
+                        <outlet property="labelUnit" destination="PcL-4O-f9q" id="g1d-wB-huM"/>
                         <outlet property="tfValue" destination="Chr-h2-Ylo" id="Cui-YE-cDx"/>
                     </connections>
                 </viewController>
